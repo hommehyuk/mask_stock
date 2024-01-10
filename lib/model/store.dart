@@ -10,6 +10,7 @@ class Store {
     required this.stockAt,
     required this.type,
   });
+
   late final String addr;
   late final String code;
   late final String createdAt;
@@ -21,7 +22,7 @@ class Store {
   late final String type;
   late double km;
 
-  Store.fromJson(Map<String, dynamic> json){
+  Store.fromJson(Map<String, dynamic> json) {
     addr = json['addr'];
     code = json['code'];
     createdAt = json['created_at'] ?? '';
