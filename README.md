@@ -1,16 +1,4 @@
 # flutter_mask
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[Screen_recording_20240422_173012.webm](https://github.com/hommehyuk/mask_stock/assets/121222439/413ba6ef-d894-40d7-9bf9-12455bee4710)
